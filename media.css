@@ -1,0 +1,25 @@
+@media (max-width:avto){
+  .navigation
+   display: block-size: ;
+  }
+
+
+.hok {
+  display: block;
+  position: relative;
+  padding: 10px;
+}
+.hok span {
+  width: 24px;
+  height: 2px;
+  background-color: rgb(255, 32, 32);
+  position: absolute;
+  top: 100px
+  left: 1500px;
+}
+.hok span:nth-child(2) {
+  margin-top: 10px;
+}
+.hok span:last-child {
+  margin-top: 20px;
+}
